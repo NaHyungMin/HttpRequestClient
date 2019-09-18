@@ -1,0 +1,12 @@
+C:\01.working\50.Test\HttpsRequest\HttpsRequest\obj\Debug\netcoreapp2.0\HttpsRequest.csprojResolveAssemblyReference.cache
+C:\01.working\50.Test\HttpsRequest\HttpsRequest\obj\Debug\netcoreapp2.0\HttpsRequest.csproj.CoreCompileInputs.cache
+C:\01.working\50.Test\HttpsRequest\HttpsRequest\obj\Debug\netcoreapp2.0\HttpsRequest.AssemblyInfoInputs.cache
+C:\01.working\50.Test\HttpsRequest\HttpsRequest\obj\Debug\netcoreapp2.0\HttpsRequest.AssemblyInfo.cs
+C:\01.working\50.Test\HttpsRequest\HttpsRequest\bin\Debug\netcoreapp2.0\HttpsRequest.deps.json
+C:\01.working\50.Test\HttpsRequest\HttpsRequest\bin\Debug\netcoreapp2.0\HttpsRequest.runtimeconfig.json
+C:\01.working\50.Test\HttpsRequest\HttpsRequest\bin\Debug\netcoreapp2.0\HttpsRequest.runtimeconfig.dev.json
+C:\01.working\50.Test\HttpsRequest\HttpsRequest\bin\Debug\netcoreapp2.0\HttpsRequest.dll
+C:\01.working\50.Test\HttpsRequest\HttpsRequest\bin\Debug\netcoreapp2.0\HttpsRequest.pdb
+C:\01.working\50.Test\HttpsRequest\HttpsRequest\bin\Debug\netcoreapp2.0\ICSharpCode.SharpZipLib.dll
+C:\01.working\50.Test\HttpsRequest\HttpsRequest\obj\Debug\netcoreapp2.0\HttpsRequest.dll
+C:\01.working\50.Test\HttpsRequest\HttpsRequest\obj\Debug\netcoreapp2.0\HttpsRequest.pdb
